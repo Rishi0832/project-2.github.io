@@ -1,0 +1,251 @@
+body{
+    background-color: #fff;
+}
+
+
+.w{
+    font-size: 3.3rem !important;
+    font-weight: 800 !important;
+    font-style: italic;
+}
+.bright{
+    font-size: 3.3rem !important;
+    font-weight: 800 !important;
+    font-style: italic;
+}
+
+@media (max-width: 1400px) {
+    .right-area{
+        padding: 25px 22px 18px 22px !important;
+        color: #fff;
+    }
+    .right-area .title{
+        padding-bottom: 8px !important;
+    }
+    .right-area h3{
+        padding-bottom: 14px !important;
+    }
+    .hr-line{
+   
+        padding-bottom: 13px !important;
+    }
+}
+@media (max-width: 1201px) {
+    .bright{
+        font-size: 3rem !important;
+
+    }
+    .btn{
+        margin-top: 10px !important;
+    }
+    .web-text{
+        font-size: 15px !important;
+       }
+       .title h5{
+        font-size: 1.1rem !important;
+    }
+    .title p{
+        font-size: 0.8rem !important;
+    }
+    .right-area{
+        padding: 25px 22px 18px 22px !important;
+        color: #fff;
+    }
+    .right-area .title{
+        padding-bottom: 7px !important;
+    }
+    .right-area h3{
+        padding-bottom: 12px !important;
+    }
+    .hr-line{
+   
+        padding-bottom: 10px !important;
+    }
+    .sub{
+        font-size: 0.9rem !important;
+    }
+    .number{
+        font-size: 20px !important;
+    }
+    .tit{
+        font-size: 16px !important;
+    }
+}
+@media screen and (max-width: 996px) {
+    .bright{
+        font-size: 2.2rem !important;
+
+    }
+   .btn{
+    
+    margin-top: 7px !important;
+    padding: 7px 35px !important;
+   }
+   .web-text{
+    font-size: 13px !important;
+   }
+   .left{
+    padding-top: 22px !important;
+}
+.title h5{
+    font-size: 0.9rem !important;
+}
+.title p{
+    font-size: 0.6rem !important;
+}
+.right-area{
+    padding: 18px 16px 15px 16px !important;
+    color: #fff;
+}
+.right-area .title{
+    padding-bottom: 0 !important;
+}
+.right-area h3{
+    padding-bottom: 8px !important;
+}
+.hr-line{
+   
+    padding-bottom: 2px !important;
+}
+.number{
+    font-size: 18px !important;
+    margin-bottom: 5px !important;
+}
+.tit{
+    font-size: 14px !important;
+    margin-bottom: 5px !important;
+}
+.sub{
+    font-size: 0.6rem !important;
+}
+}
+@media (max-width: 780px) {
+    .bright{
+        font-size: 1.5rem !important;
+
+    }
+    .web-text{
+        font-size: 8px !important;
+       }
+       .btn{
+        
+        margin-top: 0 !important;
+        padding: 5px 30px !important;
+       }
+       .left{
+        padding-top: 16px !important;
+    }
+    .right-area{
+        padding: 13px 10px 10px 12px !important;
+        color: #fff;
+    }
+    .title h5{
+        font-size: 0.6rem !important;
+    }
+    .title p{
+        font-size: 0.4rem !important;
+    }
+    .right-area .title{
+        padding-bottom: 0 !important;
+    }
+    .right-area h3{
+        padding-bottom: 0 !important;
+    }
+    .hr-line{
+         margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .number{
+        font-size: 14px !important;
+        margin-bottom: 1px !important;
+    }
+    .tit{
+        font-size: 12px !important;
+        margin-bottom: 1px !important;
+    }
+    .sub{
+        font-size: 0.5rem !important;
+    }
+}
+
+.page{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 65% 30%;
+
+    column-gap: 40px !important;
+}
+.puzzles-pic{
+    overflow: hidden;
+    max-width: 100%;
+   
+}
+.abc{
+    background-color: #000;
+   /* margin-right: 20px !important; */
+
+}
+.left{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.web-text{
+    font-size: 17px;
+}
+.span{
+    color: #f4b909;
+    
+}
+.right-area h3{
+    padding-bottom: 17px;
+}
+.hr-line{
+   
+    padding-bottom: 15px !important;
+}
+.left{
+    padding-top: 30px;
+}
+.btn{ 
+   
+    margin-top: 20px;
+}
+.right-area{
+    padding: 35px 29px 20px 29px;
+    color: #fff;
+}
+.right-area .title{
+    padding-bottom: 15px;
+}
+.title h5{
+    font-size: 1.4rem;
+}
+.title p{
+    font-size: 1rem;
+}
+.pc{
+    background-size: cover;
+    overflow: hidden;
+}
+.bottom{
+    display: flex;
+   justify-content: space-around;
+}
+.box-1{
+    display: flex;
+    justify-content: space-between !important;
+}
+.bottom{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.title-text{
+   padding-left: 20px;
+}
+.number{
+    font-size: 22px;
+}
+.tit{
+    font-size: 17px;
+}
